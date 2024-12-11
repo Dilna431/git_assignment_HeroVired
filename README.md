@@ -4,7 +4,7 @@
 
 
 ### Description:
-This repository contains two Python applications:
+This repository contains below features :
 
 1. **CalculatorPlus**: A simple calculator that supports basic arithmetic operations and square root calculations.
 2. **GeometryCalculator**: A utility to calculate areas of circles and rectangles.
