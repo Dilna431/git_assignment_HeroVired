@@ -1,14 +1,16 @@
 # Git Assignment: Hero Vired
 
-## Title: CalculatorPlus & GeometryCalculator
+## Title: CalculatorPlus & GeometryCalculator & LFS
+
 
 ### Description:
 This repository contains two Python applications:
 
 1. **CalculatorPlus**: A simple calculator that supports basic arithmetic operations and square root calculations.
 2. **GeometryCalculator**: A utility to calculate areas of circles and rectangles.
+3. **LFS**: Branch for managing large Files using Git LFS.
 
-Both applications demonstrate branching, merging, and stashing techniques in Git, along with Git LFS usage for large binary files.
+All applications demonstrate branching, merging, and stashing techniques in Git, along with Git LFS usage for large binary files.
 
 ---
 
@@ -70,9 +72,9 @@ Both applications demonstrate branching, merging, and stashing techniques in Git
   git checkout dev
   ```
 
-- Run the `CalculatorPlus.py` app:
+- Run the `calculatorplus.py` app:
   ```bash
-  python CalculatorPlus.py
+  python calculatorplus.py
   ```
 
 ##### **Sample Input & Output:**
@@ -162,7 +164,7 @@ git merge hotfix/divide
 ```
 
 #### **5. Use Git LFS:**
-If you need to manage large binary files (e.g., `.bin` files), follow these steps:
+If you need to manage large binary files (e.g., `.bin`,mp4,mvk files), follow these steps:
 
 - Install Git LFS:
   ```bash
