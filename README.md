@@ -1,7 +1,3 @@
-# git_assignment_HeroVired
-
-
-
 # Git Assignment: Hero Vired
 
 ## Title: CalculatorPlus & GeometryCalculator
@@ -173,13 +169,12 @@ If you need to manage large binary files (e.g., `.bin` files), follow these step
 
 - Track large files (e.g., `.bin` files):
   ```bash
-  git lfs track "*.bin"
-  echo "*.bin" >> .gitattributes
+  git lfs track "*.mp4"
   ```
 
 - Add the large file:
   ```bash
-  git add .gitattributes large_file.bin
+  git add .
   git commit -m "Added large file with Git LFS"
   git push origin lfs
   ```
