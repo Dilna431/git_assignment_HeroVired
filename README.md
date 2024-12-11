@@ -83,6 +83,10 @@ Both applications demonstrate branching, merging, and stashing techniques in Git
 16 / 4 = 4.0
 The square root of 25 = 5.0
 ```
+#### ***Screenshot:***
+![image](https://github.com/user-attachments/assets/ac9dfd08-74c3-424d-8cbc-251c889ef8ab)
+
+
 
 ---
 
@@ -104,6 +108,9 @@ The square root of 25 = 5.0
 The area of the circle with radius 5 = 78.54
 The area of the rectangle with length 10 and width 6 = 60
 ```
+#### ***Screenshot:***
+![image](https://github.com/user-attachments/assets/4f5706cf-4c08-44ee-9be9-f127c8dae4a6)
+
 
 ---
 
